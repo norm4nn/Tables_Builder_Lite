@@ -10,7 +10,9 @@ It's very basic GUI which allows user to:
 * create new tables in database (with two available data types of column)
   * integer
   * text
-![My_Image](images/img1.jpg)
+<div style="width:60px ; height:60px">
+![My_Image](images/img1.png = 250x250)
+<div>
 * add new rows to existing tables
 * look through table's records
 * delete existing tables from database
