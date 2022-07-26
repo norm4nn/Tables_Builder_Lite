@@ -10,6 +10,7 @@ It's very basic GUI which allows user to:
 * create new tables in database (with two available data types of column)
   * integer
   * text
+![My Image](images/img1.jpg)
 * add new rows to existing tables
 * look through table's records
 * delete existing tables from database
