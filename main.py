@@ -160,7 +160,7 @@ class Tables(MDApp):
         self.input_error  = False
         self.table2show = None
 
-        return Builder.load_file("notmy.kv")
+        return Builder.load_file("nmy.kv")
 
 
     def show_records(self):
